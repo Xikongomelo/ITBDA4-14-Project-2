@@ -1,0 +1,6 @@
+
+{
+    "java.project.referencedLibraries": [
+        "C:/hadoopsetup/hadoop-3.2.4/**/*.jar"
+    ]
+}
